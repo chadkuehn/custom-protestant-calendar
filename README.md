@@ -6,29 +6,40 @@ An `.ics` calendar file containing key Protestant liturgical and observance date
 
 The following events are included for each year in the range:
 
-| Event | Description |
-|---|---|
-| **Ash Wednesday** | Marks the beginning of Lent, 46 days before Easter |
-| **Palm Sunday** | The Sunday before Easter, commemorating Jesus' entry into Jerusalem |
-| **Good Friday** | Commemorates the crucifixion of Jesus |
-| **Ascension Day** | Observed 39 days after Easter Sunday |
-| **Pentecost** | Celebrated 49 days after Easter Sunday |
-| **Reformation Day** | October 31 — commemorates Martin Luther's 1517 theses |
-| **First Sunday of Advent** | Marks the beginning of the Advent season |
+| Event                      | Description                                                         |
+| -------------------------- | ------------------------------------------------------------------- |
+| **Ash Wednesday**          | Marks the beginning of Lent, 46 days before Easter                  |
+| **Palm Sunday**            | The Sunday before Easter, commemorating Jesus' entry into Jerusalem |
+| **Good Friday**            | Commemorates the crucifixion of Jesus                               |
+| **Ascension Day**          | Observed 39 days after Easter Sunday                                |
+| **Pentecost**              | Celebrated 49 days after Easter Sunday                              |
+| **Reformation Day**        | October 31 — commemorates Martin Luther's 1517 theses               |
+| **First Sunday of Advent** | Marks the beginning of the Advent season                            |
 
 > **Note:** Easter, Christmas, and St. Patrick's Day are intentionally excluded, as these are already present in most standard US calendar applications.
 
 ## Usage
 
+### Subscribe via URL
+
+Many calendar apps support subscribing to a calendar via URL, which keeps the calendar in sync automatically:
+
+```
+https://chadkuehn.github.io/relevant-events/holidays.ics
+```
+
+Use the "Add calendar from URL" or "Subscribe" feature in your app and paste the URL above.
+
 ### Import into a Calendar App
 
-1. Download `holidays.ics`
+1. Download `holidays.ics` or use the URL above
 2. Open your calendar application (Google Calendar, Apple Calendar, Proton Calendar, Outlook, etc.)
 3. Use the import or "Add calendar from file" feature to load the `.ics` file
 
 ### Proton Calendar Notes
 
 Proton Calendar has the following limitations to be aware of:
+
 - Maximum file size: 10 MB
 - Maximum events per import: 15,000
 - Date range support appears to cap around 12-13 years out
@@ -49,4 +60,3 @@ The file follows the [iCalendar (RFC 5545)](https://datatracker.ietf.org/doc/htm
 - All events are all-day (`VALUE=DATE`)
 - Timezone reference: `America/Chicago`
 - Each event has a unique `UID` for deduplication on re-import
-
