@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
 PRODID:-//Custom Protestant Calendar 2026-2037//EN
-X-WR-CALNAME:Protestant Church Calendar
+X-WR-CALNAME:Protestant Events
 X-WR-TIMEZONE:America/New_York
 
 BEGIN:VEVENT
