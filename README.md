@@ -1,4 +1,4 @@
-# Custom Protestant Calendar (2026–2037)
+# Relevant Events
 
 An `.ics` calendar file containing key Protestant liturgical and observance dates from 2026 through 2037, suitable for import into any calendar application that supports the iCalendar format.
 
@@ -31,7 +31,7 @@ The following events are included for each year in the range:
 Proton Calendar has the following limitations to be aware of:
 - Maximum file size: 10 MB
 - Maximum events per import: 15,000
-- Date range support appears to cap around 2040
+- Date range support appears to cap around 12-13 years out
 
 This file is sized well within those constraints.
 
@@ -47,6 +47,6 @@ The file follows the [iCalendar (RFC 5545)](https://datatracker.ietf.org/doc/htm
 
 - `CALSCALE:GREGORIAN`
 - All events are all-day (`VALUE=DATE`)
-- Timezone reference: `America/New_York`
+- Timezone reference: `America/Chicago`
 - Each event has a unique `UID` for deduplication on re-import
 
