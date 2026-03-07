@@ -1,15 +1,23 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
-PRODID:-//Protestant Events//EN
-X-WR-CALNAME:Protestant Events
+PRODID:-//Chad Kuehn//Christian Curated Calendar//EN
+X-WR-CALNAME:Christian Curated
 X-WR-TIMEZONE:America/Chicago
 
 BEGIN:VEVENT
 UID:ashwednesday-2026@customcalendar
 SUMMARY:Ash Wednesday (Start of Lent)
+DESCRIPTION:A day of fasting and repentance marking the beginning of Lent — 40 days of self-examination and preparation leading to Resurrection Sunday.
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260219
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holyweek-2026@customcalendar
+SUMMARY:Holy Week
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260406
 END:VEVENT
 
 BEGIN:VEVENT
@@ -57,8 +65,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ashwednesday-2027@customcalendar
 SUMMARY:Ash Wednesday (Start of Lent)
+DESCRIPTION:A day of fasting and repentance marking the beginning of Lent — 40 days of self-examination and preparation leading to Resurrection Sunday.
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holyweek-2027@customcalendar
+SUMMARY:Holy Week
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270329
 END:VEVENT
 
 BEGIN:VEVENT
@@ -106,8 +122,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ashwednesday-2028@customcalendar
 SUMMARY:Ash Wednesday (Start of Lent)
+DESCRIPTION:A day of fasting and repentance marking the beginning of Lent — 40 days of self-examination and preparation leading to Resurrection Sunday.
 DTSTART;VALUE=DATE:20280223
 DTEND;VALUE=DATE:20280224
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holyweek-2028@customcalendar
+SUMMARY:Holy Week
+DTSTART;VALUE=DATE:20280312
+DTEND;VALUE=DATE:20280320
 END:VEVENT
 
 BEGIN:VEVENT
@@ -155,8 +179,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ashwednesday-2029@customcalendar
 SUMMARY:Ash Wednesday (Start of Lent)
+DESCRIPTION:A day of fasting and repentance marking the beginning of Lent — 40 days of self-examination and preparation leading to Resurrection Sunday.
 DTSTART;VALUE=DATE:20290214
 DTEND;VALUE=DATE:20290215
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holyweek-2029@customcalendar
+SUMMARY:Holy Week
+DTSTART;VALUE=DATE:20290401
+DTEND;VALUE=DATE:20290409
 END:VEVENT
 
 BEGIN:VEVENT
@@ -204,8 +236,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ashwednesday-2030@customcalendar
 SUMMARY:Ash Wednesday (Start of Lent)
+DESCRIPTION:A day of fasting and repentance marking the beginning of Lent — 40 days of self-examination and preparation leading to Resurrection Sunday.
 DTSTART;VALUE=DATE:20300206
 DTEND;VALUE=DATE:20300207
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holyweek-2030@customcalendar
+SUMMARY:Holy Week
+DTSTART;VALUE=DATE:20300325
+DTEND;VALUE=DATE:20300402
 END:VEVENT
 
 BEGIN:VEVENT
@@ -253,8 +293,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ashwednesday-2031@customcalendar
 SUMMARY:Ash Wednesday (Start of Lent)
+DESCRIPTION:A day of fasting and repentance marking the beginning of Lent — 40 days of self-examination and preparation leading to Resurrection Sunday.
 DTSTART;VALUE=DATE:20310226
 DTEND;VALUE=DATE:20310227
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holyweek-2031@customcalendar
+SUMMARY:Holy Week
+DTSTART;VALUE=DATE:20310316
+DTEND;VALUE=DATE:20310324
 END:VEVENT
 
 BEGIN:VEVENT
@@ -302,8 +350,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ashwednesday-2032@customcalendar
 SUMMARY:Ash Wednesday (Start of Lent)
+DESCRIPTION:A day of fasting and repentance marking the beginning of Lent — 40 days of self-examination and preparation leading to Resurrection Sunday.
 DTSTART;VALUE=DATE:20320211
 DTEND;VALUE=DATE:20320212
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holyweek-2032@customcalendar
+SUMMARY:Holy Week
+DTSTART;VALUE=DATE:20320328
+DTEND;VALUE=DATE:20320405
 END:VEVENT
 
 BEGIN:VEVENT
@@ -351,8 +407,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ashwednesday-2033@customcalendar
 SUMMARY:Ash Wednesday (Start of Lent)
+DESCRIPTION:A day of fasting and repentance marking the beginning of Lent — 40 days of self-examination and preparation leading to Resurrection Sunday.
 DTSTART;VALUE=DATE:20330223
 DTEND;VALUE=DATE:20330224
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holyweek-2033@customcalendar
+SUMMARY:Holy Week
+DTSTART;VALUE=DATE:20330313
+DTEND;VALUE=DATE:20330321
 END:VEVENT
 
 BEGIN:VEVENT
@@ -400,8 +464,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ashwednesday-2034@customcalendar
 SUMMARY:Ash Wednesday (Start of Lent)
+DESCRIPTION:A day of fasting and repentance marking the beginning of Lent — 40 days of self-examination and preparation leading to Resurrection Sunday.
 DTSTART;VALUE=DATE:20340208
 DTEND;VALUE=DATE:20340209
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holyweek-2034@customcalendar
+SUMMARY:Holy Week
+DTSTART;VALUE=DATE:20340326
+DTEND;VALUE=DATE:20340403
 END:VEVENT
 
 BEGIN:VEVENT
@@ -449,8 +521,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ashwednesday-2035@customcalendar
 SUMMARY:Ash Wednesday (Start of Lent)
+DESCRIPTION:A day of fasting and repentance marking the beginning of Lent — 40 days of self-examination and preparation leading to Resurrection Sunday.
 DTSTART;VALUE=DATE:20350221
 DTEND;VALUE=DATE:20350222
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holyweek-2035@customcalendar
+SUMMARY:Holy Week
+DTSTART;VALUE=DATE:20350318
+DTEND;VALUE=DATE:20350326
 END:VEVENT
 
 BEGIN:VEVENT
@@ -498,8 +578,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ashwednesday-2036@customcalendar
 SUMMARY:Ash Wednesday (Start of Lent)
+DESCRIPTION:A day of fasting and repentance marking the beginning of Lent — 40 days of self-examination and preparation leading to Resurrection Sunday.
 DTSTART;VALUE=DATE:20360205
 DTEND;VALUE=DATE:20360206
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holyweek-2036@customcalendar
+SUMMARY:Holy Week
+DTSTART;VALUE=DATE:20360330
+DTEND;VALUE=DATE:20360407
 END:VEVENT
 
 BEGIN:VEVENT
@@ -547,8 +635,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ashwednesday-2037@customcalendar
 SUMMARY:Ash Wednesday (Start of Lent)
+DESCRIPTION:A day of fasting and repentance marking the beginning of Lent — 40 days of self-examination and preparation leading to Resurrection Sunday.
 DTSTART;VALUE=DATE:20370218
 DTEND;VALUE=DATE:20370219
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holyweek-2037@customcalendar
+SUMMARY:Holy Week
+DTSTART;VALUE=DATE:20370322
+DTEND;VALUE=DATE:20370330
 END:VEVENT
 
 BEGIN:VEVENT
