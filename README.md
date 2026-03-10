@@ -41,7 +41,7 @@ Key Catholic feast days and observances. The following events are included for e
 
 ### jewish.ics
 
-Key Jewish feasts and holy days. The 🌇 emoji on each event title is a reminder that the holiday begins at sundown on the listed date. The following events are included for each year in the range:
+Key Jewish feasts and holy days. The following events are included for each year in the range:
 
 | Event                                    | Description                                                                                           |
 | ---------------------------------------- | ----------------------------------------------------------------------------------------------------- |
