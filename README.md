@@ -117,7 +117,7 @@ All U.S. federally observed public holidays. The following events are included f
 | **Columbus Day**                         | Second Monday of October — also celebrated as Indigenous Peoples' Day in many areas |
 | **Veterans Day**                         | November 11 — honors all U.S. military veterans                                     |
 | **Thanksgiving Day**                     | Fourth Thursday of November                                                         |
-| **Christmas Day**                        | December 25                                                                         |
+| **Christmas Day**                        | December 25 - celebration of Christ's birth. The secular view focuses on Santa Clause |
 
 11 events × 11 years = **121 total events**
 
