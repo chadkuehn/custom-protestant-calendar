@@ -48,13 +48,13 @@ Key Jewish feasts and holy days. The 🌇 emoji on each event title is a reminde
 
 | Event                                       | Description                                                                                           |
 | ------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| **Purim** 🌇                                | Celebrates the deliverance of the Jewish people as recorded in the Book of Esther; 14 Adar            |
-| **Passover (Feast of Unleavened Bread)** 🌇 | Commemorates the Exodus from Egypt; begins 15 Nisan with the Passover Seder                           |
-| **Shavuot (Feast of Weeks)** 🌇             | Celebrates the giving of the Torah at Sinai, 50 days after the start of Passover; 6 Sivan             |
-| **Rosh Hashanah (Feast of Trumpets)** 🌇    | The Jewish New Year; begins the Ten Days of Awe leading to Yom Kippur; 1 Tishrei                      |
-| **Yom Kippur (Day of Atonement)** 🌇        | The holiest day of the Jewish year — a 25-hour fast of prayer and repentance; 10 Tishrei              |
-| **Sukkot (Feast of Tabernacles)** 🌇        | Seven-day harvest festival; Jews dwell in a sukkah commemorating the wilderness wandering; 15 Tishrei |
-| **Hanukkah (Feast of Dedication)** 🌇       | Eight-day Festival of Lights celebrating the rededication of the Temple (~165 BC); 25 Kislev          |
+| **Purim**                                 | Celebrates the deliverance of the Jewish people as recorded in the Book of Esther; 14 Adar            |
+| **Passover (Feast of Unleavened Bread)**  | Commemorates the Exodus from Egypt; begins 15 Nisan with the Passover Seder                           |
+| **Shavuot (Feast of Weeks)**              | Celebrates the giving of the Torah at Sinai, 50 days after the start of Passover; 6 Sivan             |
+| **Rosh Hashanah (Feast of Trumpets)**     | The Jewish New Year; begins the Ten Days of Awe leading to Yom Kippur; 1 Tishrei                      |
+| **Yom Kippur (Day of Atonement)**         | The holiest day of the Jewish year — a 25-hour fast of prayer and repentance; 10 Tishrei              |
+| **Sukkot (Feast of Tabernacles)**         | Seven-day harvest festival; Jews dwell in a sukkah commemorating the wilderness wandering; 15 Tishrei |
+| **Hanukkah (Feast of Dedication)**        | Eight-day Festival of Lights celebrating the rededication of the Temple (~165 BC); 25 Kislev          |
 
 7 events × 11 years = **77 total events**
 
