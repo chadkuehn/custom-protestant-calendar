@@ -6,7 +6,7 @@ X-WR-CALNAME:Catholic
 X-WR-TIMEZONE:America/Chicago
 
 BEGIN:VEVENT
-UID:ashwednesday-2026@customcalendar
+UID:ashwednesday-2026@catholic
 SUMMARY:Ash Wednesday
 DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling: Remember that you are dust\, and to dust you shall return.
 DTSTART;VALUE=DATE:20260218
@@ -14,7 +14,7 @@ DTEND;VALUE=DATE:20260219
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsaints-2026@customcalendar
+UID:allsaints-2026@catholic
 SUMMARY:All Saints' Day
 DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
 DTSTART;VALUE=DATE:20261101
@@ -22,7 +22,7 @@ DTEND;VALUE=DATE:20261102
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsouls-2026@customcalendar
+UID:allsouls-2026@catholic
 SUMMARY:All Souls' Day
 DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics offer prayers\, Masses\, and acts of charity for the souls of the deceased.
 DTSTART;VALUE=DATE:20261102
@@ -30,7 +30,7 @@ DTEND;VALUE=DATE:20261103
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ashwednesday-2027@customcalendar
+UID:ashwednesday-2027@catholic
 SUMMARY:Ash Wednesday
 DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling: Remember that you are dust\, and to dust you shall return.
 DTSTART;VALUE=DATE:20270210
@@ -38,7 +38,7 @@ DTEND;VALUE=DATE:20270211
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsaints-2027@customcalendar
+UID:allsaints-2027@catholic
 SUMMARY:All Saints' Day
 DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
 DTSTART;VALUE=DATE:20271101
@@ -46,7 +46,7 @@ DTEND;VALUE=DATE:20271102
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsouls-2027@customcalendar
+UID:allsouls-2027@catholic
 SUMMARY:All Souls' Day
 DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics offer prayers\, Masses\, and acts of charity for the souls of the deceased.
 DTSTART;VALUE=DATE:20271102
@@ -54,7 +54,7 @@ DTEND;VALUE=DATE:20271103
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ashwednesday-2028@customcalendar
+UID:ashwednesday-2028@catholic
 SUMMARY:Ash Wednesday
 DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling: Remember that you are dust\, and to dust you shall return.
 DTSTART;VALUE=DATE:20280301
@@ -62,7 +62,7 @@ DTEND;VALUE=DATE:20280302
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsaints-2028@customcalendar
+UID:allsaints-2028@catholic
 SUMMARY:All Saints' Day
 DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
 DTSTART;VALUE=DATE:20281101
@@ -70,7 +70,7 @@ DTEND;VALUE=DATE:20281102
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsouls-2028@customcalendar
+UID:allsouls-2028@catholic
 SUMMARY:All Souls' Day
 DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics offer prayers\, Masses\, and acts of charity for the souls of the deceased.
 DTSTART;VALUE=DATE:20281102
@@ -78,7 +78,7 @@ DTEND;VALUE=DATE:20281103
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ashwednesday-2029@customcalendar
+UID:ashwednesday-2029@catholic
 SUMMARY:Ash Wednesday
 DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling: Remember that you are dust\, and to dust you shall return.
 DTSTART;VALUE=DATE:20290214
@@ -86,7 +86,7 @@ DTEND;VALUE=DATE:20290215
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsaints-2029@customcalendar
+UID:allsaints-2029@catholic
 SUMMARY:All Saints' Day
 DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
 DTSTART;VALUE=DATE:20291101
@@ -94,7 +94,7 @@ DTEND;VALUE=DATE:20291102
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsouls-2029@customcalendar
+UID:allsouls-2029@catholic
 SUMMARY:All Souls' Day
 DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics offer prayers\, Masses\, and acts of charity for the souls of the deceased.
 DTSTART;VALUE=DATE:20291102
@@ -102,7 +102,7 @@ DTEND;VALUE=DATE:20291103
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ashwednesday-2030@customcalendar
+UID:ashwednesday-2030@catholic
 SUMMARY:Ash Wednesday
 DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling: Remember that you are dust\, and to dust you shall return.
 DTSTART;VALUE=DATE:20300306
@@ -110,7 +110,7 @@ DTEND;VALUE=DATE:20300307
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsaints-2030@customcalendar
+UID:allsaints-2030@catholic
 SUMMARY:All Saints' Day
 DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
 DTSTART;VALUE=DATE:20301101
@@ -118,7 +118,7 @@ DTEND;VALUE=DATE:20301102
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsouls-2030@customcalendar
+UID:allsouls-2030@catholic
 SUMMARY:All Souls' Day
 DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics offer prayers\, Masses\, and acts of charity for the souls of the deceased.
 DTSTART;VALUE=DATE:20301102
@@ -126,7 +126,7 @@ DTEND;VALUE=DATE:20301103
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ashwednesday-2031@customcalendar
+UID:ashwednesday-2031@catholic
 SUMMARY:Ash Wednesday
 DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling: Remember that you are dust\, and to dust you shall return.
 DTSTART;VALUE=DATE:20310226
@@ -134,7 +134,7 @@ DTEND;VALUE=DATE:20310227
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsaints-2031@customcalendar
+UID:allsaints-2031@catholic
 SUMMARY:All Saints' Day
 DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
 DTSTART;VALUE=DATE:20311101
@@ -142,7 +142,7 @@ DTEND;VALUE=DATE:20311102
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsouls-2031@customcalendar
+UID:allsouls-2031@catholic
 SUMMARY:All Souls' Day
 DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics offer prayers\, Masses\, and acts of charity for the souls of the deceased.
 DTSTART;VALUE=DATE:20311102
@@ -150,7 +150,7 @@ DTEND;VALUE=DATE:20311103
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ashwednesday-2032@customcalendar
+UID:ashwednesday-2032@catholic
 SUMMARY:Ash Wednesday
 DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling: Remember that you are dust\, and to dust you shall return.
 DTSTART;VALUE=DATE:20320211
@@ -158,7 +158,7 @@ DTEND;VALUE=DATE:20320212
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsaints-2032@customcalendar
+UID:allsaints-2032@catholic
 SUMMARY:All Saints' Day
 DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
 DTSTART;VALUE=DATE:20321101
@@ -166,7 +166,7 @@ DTEND;VALUE=DATE:20321102
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsouls-2032@customcalendar
+UID:allsouls-2032@catholic
 SUMMARY:All Souls' Day
 DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics offer prayers\, Masses\, and acts of charity for the souls of the deceased.
 DTSTART;VALUE=DATE:20321102
@@ -174,7 +174,7 @@ DTEND;VALUE=DATE:20321103
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ashwednesday-2033@customcalendar
+UID:ashwednesday-2033@catholic
 SUMMARY:Ash Wednesday
 DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling: Remember that you are dust\, and to dust you shall return.
 DTSTART;VALUE=DATE:20330302
@@ -182,7 +182,7 @@ DTEND;VALUE=DATE:20330303
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsaints-2033@customcalendar
+UID:allsaints-2033@catholic
 SUMMARY:All Saints' Day
 DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
 DTSTART;VALUE=DATE:20331101
@@ -190,7 +190,7 @@ DTEND;VALUE=DATE:20331102
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsouls-2033@customcalendar
+UID:allsouls-2033@catholic
 SUMMARY:All Souls' Day
 DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics offer prayers\, Masses\, and acts of charity for the souls of the deceased.
 DTSTART;VALUE=DATE:20331102
@@ -198,7 +198,7 @@ DTEND;VALUE=DATE:20331103
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ashwednesday-2034@customcalendar
+UID:ashwednesday-2034@catholic
 SUMMARY:Ash Wednesday
 DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling: Remember that you are dust\, and to dust you shall return.
 DTSTART;VALUE=DATE:20340222
@@ -206,7 +206,7 @@ DTEND;VALUE=DATE:20340223
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsaints-2034@customcalendar
+UID:allsaints-2034@catholic
 SUMMARY:All Saints' Day
 DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
 DTSTART;VALUE=DATE:20341101
@@ -214,7 +214,7 @@ DTEND;VALUE=DATE:20341102
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsouls-2034@customcalendar
+UID:allsouls-2034@catholic
 SUMMARY:All Souls' Day
 DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics offer prayers\, Masses\, and acts of charity for the souls of the deceased.
 DTSTART;VALUE=DATE:20341102
@@ -222,7 +222,7 @@ DTEND;VALUE=DATE:20341103
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ashwednesday-2035@customcalendar
+UID:ashwednesday-2035@catholic
 SUMMARY:Ash Wednesday
 DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling: Remember that you are dust\, and to dust you shall return.
 DTSTART;VALUE=DATE:20350207
@@ -230,7 +230,7 @@ DTEND;VALUE=DATE:20350208
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsaints-2035@customcalendar
+UID:allsaints-2035@catholic
 SUMMARY:All Saints' Day
 DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
 DTSTART;VALUE=DATE:20351101
@@ -238,7 +238,7 @@ DTEND;VALUE=DATE:20351102
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsouls-2035@customcalendar
+UID:allsouls-2035@catholic
 SUMMARY:All Souls' Day
 DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics offer prayers\, Masses\, and acts of charity for the souls of the deceased.
 DTSTART;VALUE=DATE:20351102
@@ -246,7 +246,7 @@ DTEND;VALUE=DATE:20351103
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ashwednesday-2036@customcalendar
+UID:ashwednesday-2036@catholic
 SUMMARY:Ash Wednesday
 DESCRIPTION:Ash Wednesday marks the beginning of Lent\, the 40-day penitential season before Easter. Catholics and many other Christians receive ashes in the sign of the cross on their foreheads as a sign of mortality\, humility\, and repentance\, recalling: Remember that you are dust\, and to dust you shall return.
 DTSTART;VALUE=DATE:20360227
@@ -254,7 +254,7 @@ DTEND;VALUE=DATE:20360228
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsaints-2036@customcalendar
+UID:allsaints-2036@catholic
 SUMMARY:All Saints' Day
 DESCRIPTION:A holy day of obligation in the Catholic Church observed on November 1\, honoring all the saints — both known and unknown — who have attained heaven. The faithful are called to attend Mass and to pray for the intercession of the saints.
 DTSTART;VALUE=DATE:20361101
@@ -262,7 +262,7 @@ DTEND;VALUE=DATE:20361102
 END:VEVENT
 
 BEGIN:VEVENT
-UID:allsouls-2036@customcalendar
+UID:allsouls-2036@catholic
 SUMMARY:All Souls' Day
 DESCRIPTION:Observed on November 2\, All Souls' Day is a day of prayer and remembrance for the faithful departed — those believed to be in purgatory awaiting full entry into heaven. Catholics offer prayers\, Masses\, and acts of charity for the souls of the deceased.
 DTSTART;VALUE=DATE:20361102

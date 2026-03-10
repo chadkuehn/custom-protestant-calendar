@@ -39,7 +39,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:juneteenth-2026@federal
-SUMMARY:Juneteenth National Independence Day
+SUMMARY:Juneteenth
 DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
@@ -64,7 +64,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:columbusday-2026@federal
 SUMMARY:Columbus Day
-DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492.
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 END:VEVENT
@@ -127,7 +127,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:juneteenth-2027@federal
-SUMMARY:Juneteenth National Independence Day
+SUMMARY:Juneteenth
 DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
@@ -152,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:columbusday-2027@federal
 SUMMARY:Columbus Day
-DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492.
 DTSTART;VALUE=DATE:20271011
 DTEND;VALUE=DATE:20271012
 END:VEVENT
@@ -215,7 +215,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:juneteenth-2028@federal
-SUMMARY:Juneteenth National Independence Day
+SUMMARY:Juneteenth
 DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
 DTSTART;VALUE=DATE:20280619
 DTEND;VALUE=DATE:20280620
@@ -240,7 +240,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:columbusday-2028@federal
 SUMMARY:Columbus Day
-DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492.
 DTSTART;VALUE=DATE:20281009
 DTEND;VALUE=DATE:20281010
 END:VEVENT
@@ -303,7 +303,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:juneteenth-2029@federal
-SUMMARY:Juneteenth National Independence Day
+SUMMARY:Juneteenth
 DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
 DTSTART;VALUE=DATE:20290619
 DTEND;VALUE=DATE:20290620
@@ -328,7 +328,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:columbusday-2029@federal
 SUMMARY:Columbus Day
-DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492.
 DTSTART;VALUE=DATE:20291008
 DTEND;VALUE=DATE:20291009
 END:VEVENT
@@ -391,7 +391,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:juneteenth-2030@federal
-SUMMARY:Juneteenth National Independence Day
+SUMMARY:Juneteenth
 DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
 DTSTART;VALUE=DATE:20300619
 DTEND;VALUE=DATE:20300620
@@ -416,7 +416,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:columbusday-2030@federal
 SUMMARY:Columbus Day
-DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492.
 DTSTART;VALUE=DATE:20301014
 DTEND;VALUE=DATE:20301015
 END:VEVENT
@@ -479,7 +479,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:juneteenth-2031@federal
-SUMMARY:Juneteenth National Independence Day
+SUMMARY:Juneteenth
 DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
 DTSTART;VALUE=DATE:20310619
 DTEND;VALUE=DATE:20310620
@@ -504,7 +504,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:columbusday-2031@federal
 SUMMARY:Columbus Day
-DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492.
 DTSTART;VALUE=DATE:20311013
 DTEND;VALUE=DATE:20311014
 END:VEVENT
@@ -567,7 +567,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:juneteenth-2032@federal
-SUMMARY:Juneteenth National Independence Day
+SUMMARY:Juneteenth
 DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
 DTSTART;VALUE=DATE:20320619
 DTEND;VALUE=DATE:20320620
@@ -592,7 +592,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:columbusday-2032@federal
 SUMMARY:Columbus Day
-DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492.
 DTSTART;VALUE=DATE:20321011
 DTEND;VALUE=DATE:20321012
 END:VEVENT
@@ -655,7 +655,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:juneteenth-2033@federal
-SUMMARY:Juneteenth National Independence Day
+SUMMARY:Juneteenth
 DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
 DTSTART;VALUE=DATE:20330619
 DTEND;VALUE=DATE:20330620
@@ -680,7 +680,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:columbusday-2033@federal
 SUMMARY:Columbus Day
-DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492.
 DTSTART;VALUE=DATE:20331010
 DTEND;VALUE=DATE:20331011
 END:VEVENT
@@ -743,7 +743,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:juneteenth-2034@federal
-SUMMARY:Juneteenth National Independence Day
+SUMMARY:Juneteenth
 DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
 DTSTART;VALUE=DATE:20340619
 DTEND;VALUE=DATE:20340620
@@ -768,7 +768,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:columbusday-2034@federal
 SUMMARY:Columbus Day
-DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492.
 DTSTART;VALUE=DATE:20341009
 DTEND;VALUE=DATE:20341010
 END:VEVENT
@@ -831,7 +831,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:juneteenth-2035@federal
-SUMMARY:Juneteenth National Independence Day
+SUMMARY:Juneteenth
 DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
 DTSTART;VALUE=DATE:20350619
 DTEND;VALUE=DATE:20350620
@@ -856,7 +856,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:columbusday-2035@federal
 SUMMARY:Columbus Day
-DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492.
 DTSTART;VALUE=DATE:20351008
 DTEND;VALUE=DATE:20351009
 END:VEVENT
@@ -919,7 +919,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:juneteenth-2036@federal
-SUMMARY:Juneteenth National Independence Day
+SUMMARY:Juneteenth
 DESCRIPTION:A federal holiday commemorating the emancipation of enslaved African Americans\, marking the date in 1865 when Union soldiers brought news of freedom to Galveston\, Texas — two months after the Civil War ended.
 DTSTART;VALUE=DATE:20360619
 DTEND;VALUE=DATE:20360620
@@ -944,7 +944,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:columbusday-2036@federal
 SUMMARY:Columbus Day
-DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492. Also celebrated as Indigenous Peoples' Day in many states and cities.
+DESCRIPTION:A federal holiday on the second Monday of October commemorating Christopher Columbus's arrival in the Americas in 1492.
 DTSTART;VALUE=DATE:20361013
 DTEND;VALUE=DATE:20361014
 END:VEVENT
