@@ -7,8 +7,8 @@ X-WR-TIMEZONE:America/Chicago
 
 BEGIN:VEVENT
 UID:firstlent-2026@christian
-SUMMARY:First Day of Lent (Ash Wednesday)
-DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words: Remember that you are dust\, and to dust you shall return.
+SUMMARY:First Day of Lent
+DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday.
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260219
 END:VEVENT
@@ -87,8 +87,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:firstlent-2027@christian
-SUMMARY:First Day of Lent (Ash Wednesday)
-DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words: Remember that you are dust\, and to dust you shall return.
+SUMMARY:First Day of Lent
+DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday.
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 END:VEVENT
@@ -167,8 +167,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:firstlent-2028@christian
-SUMMARY:First Day of Lent (Ash Wednesday)
-DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words: Remember that you are dust\, and to dust you shall return.
+SUMMARY:First Day of Lent
+DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday.
 DTSTART;VALUE=DATE:20280301
 DTEND;VALUE=DATE:20280302
 END:VEVENT
@@ -247,8 +247,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:firstlent-2029@christian
-SUMMARY:First Day of Lent (Ash Wednesday)
-DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words: Remember that you are dust\, and to dust you shall return.
+SUMMARY:First Day of Lent
+DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday.
 DTSTART;VALUE=DATE:20290214
 DTEND;VALUE=DATE:20290215
 END:VEVENT
@@ -327,8 +327,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:firstlent-2030@christian
-SUMMARY:First Day of Lent (Ash Wednesday)
-DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words: Remember that you are dust\, and to dust you shall return.
+SUMMARY:First Day of Lent
+DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday.
 DTSTART;VALUE=DATE:20300306
 DTEND;VALUE=DATE:20300307
 END:VEVENT
@@ -407,8 +407,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:firstlent-2031@christian
-SUMMARY:First Day of Lent (Ash Wednesday)
-DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words: Remember that you are dust\, and to dust you shall return.
+SUMMARY:First Day of Lent
+DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday.
 DTSTART;VALUE=DATE:20310226
 DTEND;VALUE=DATE:20310227
 END:VEVENT
@@ -487,8 +487,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:firstlent-2032@christian
-SUMMARY:First Day of Lent (Ash Wednesday)
-DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words: Remember that you are dust\, and to dust you shall return.
+SUMMARY:First Day of Lent
+DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday.
 DTSTART;VALUE=DATE:20320211
 DTEND;VALUE=DATE:20320212
 END:VEVENT
@@ -567,8 +567,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:firstlent-2033@christian
-SUMMARY:First Day of Lent (Ash Wednesday)
-DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words: Remember that you are dust\, and to dust you shall return.
+SUMMARY:First Day of Lent
+DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday.
 DTSTART;VALUE=DATE:20330302
 DTEND;VALUE=DATE:20330303
 END:VEVENT
@@ -647,8 +647,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:firstlent-2034@christian
-SUMMARY:First Day of Lent (Ash Wednesday)
-DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words: Remember that you are dust\, and to dust you shall return.
+SUMMARY:First Day of Lent
+DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday.
 DTSTART;VALUE=DATE:20340222
 DTEND;VALUE=DATE:20340223
 END:VEVENT
@@ -727,8 +727,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:firstlent-2035@christian
-SUMMARY:First Day of Lent (Ash Wednesday)
-DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words: Remember that you are dust\, and to dust you shall return.
+SUMMARY:First Day of Lent
+DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday.
 DTSTART;VALUE=DATE:20350207
 DTEND;VALUE=DATE:20350208
 END:VEVENT
@@ -807,8 +807,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:firstlent-2036@christian
-SUMMARY:First Day of Lent (Ash Wednesday)
-DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday. Christians receive ashes on their foreheads as a sign of mortality and penitence\, reflecting the words: Remember that you are dust\, and to dust you shall return.
+SUMMARY:First Day of Lent
+DESCRIPTION:The first day of Lent\, the 40-day season of self-reflection leading up to Resurrection Sunday.
 DTSTART;VALUE=DATE:20360227
 DTEND;VALUE=DATE:20360228
 END:VEVENT

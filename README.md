@@ -10,7 +10,7 @@ Key Protestant liturgical and observance dates. The following events are include
 
 | Event                                 | Description                                                                                                                             |
 | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **First Day of Lent (Ash Wednesday)** | The 40-day season of fasting, prayer, and repentance leading up to Resurrection Sunday                                                  |
+| **First Day of Lent**                 | The 40-day season of fasting, prayer, and repentance leading up to Resurrection Sunday                                                  |
 | **National Day of Prayer**            | First Thursday of May — calls people of faith to unite in prayer for the nation                                                         |
 | **Palm Sunday**                       | Commemorates Jesus' triumphal entry into Jerusalem; one week before Resurrection Sunday                                                 |
 | **Good Friday**                       | Commemorates the crucifixion and death of Jesus Christ at Calvary                                                                       |
