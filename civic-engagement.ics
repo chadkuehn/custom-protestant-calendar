@@ -6,7 +6,7 @@ X-WR-CALNAME:Civic Engagement
 X-WR-TIMEZONE:America/Chicago
 
 BEGIN:VEVENT
-UID:dst-start-2026@customcalendar
+UID:dst-start-2026@civicengagement
 SUMMARY:Daylight Saving Time Begins
 DESCRIPTION:Clocks spring forward one hour at 2:00 AM on the second Sunday of March. Daylight saving time extends evening daylight through the warmer months. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20260308
@@ -14,7 +14,7 @@ DTEND;VALUE=DATE:20260309
 END:VEVENT
 
 BEGIN:VEVENT
-UID:taxday-2026@customcalendar
+UID:taxday-2026@civicengagement
 SUMMARY:Tax Day
 DESCRIPTION:The deadline for filing U.S. federal individual income tax returns with the IRS. If April 15 falls on a weekend or holiday\, the deadline is moved to the next business day.
 DTSTART;VALUE=DATE:20260415
@@ -22,7 +22,7 @@ DTEND;VALUE=DATE:20260416
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-end-2026@customcalendar
+UID:dst-end-2026@civicengagement
 SUMMARY:Daylight Saving Time Ends
 DESCRIPTION:Clocks fall back one hour at 2:00 AM on the first Sunday of November. Standard time resumes until the following spring. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20261101
@@ -30,7 +30,7 @@ DTEND;VALUE=DATE:20261102
 END:VEVENT
 
 BEGIN:VEVENT
-UID:electionday-2026@customcalendar
+UID:electionday-2026@civicengagement
 SUMMARY:Election Day
 DESCRIPTION:The Tuesday after the first Monday in November is the date for federal\, state\, and local elections. Presidential elections occur every four years (2028\, 2032\, 2036). Midterm elections occur in even non-presidential years.
 DTSTART;VALUE=DATE:20261103
@@ -38,7 +38,7 @@ DTEND;VALUE=DATE:20261104
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-start-2027@customcalendar
+UID:dst-start-2027@civicengagement
 SUMMARY:Daylight Saving Time Begins
 DESCRIPTION:Clocks spring forward one hour at 2:00 AM on the second Sunday of March. Daylight saving time extends evening daylight through the warmer months. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20270314
@@ -46,7 +46,7 @@ DTEND;VALUE=DATE:20270315
 END:VEVENT
 
 BEGIN:VEVENT
-UID:taxday-2027@customcalendar
+UID:taxday-2027@civicengagement
 SUMMARY:Tax Day
 DESCRIPTION:The deadline for filing U.S. federal individual income tax returns with the IRS. If April 15 falls on a weekend or holiday\, the deadline is moved to the next business day.
 DTSTART;VALUE=DATE:20270415
@@ -54,7 +54,7 @@ DTEND;VALUE=DATE:20270416
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-end-2027@customcalendar
+UID:dst-end-2027@civicengagement
 SUMMARY:Daylight Saving Time Ends
 DESCRIPTION:Clocks fall back one hour at 2:00 AM on the first Sunday of November. Standard time resumes until the following spring. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20271107
@@ -62,7 +62,7 @@ DTEND;VALUE=DATE:20271108
 END:VEVENT
 
 BEGIN:VEVENT
-UID:electionday-2027@customcalendar
+UID:electionday-2027@civicengagement
 SUMMARY:Election Day
 DESCRIPTION:The Tuesday after the first Monday in November is the date for federal\, state\, and local elections. Presidential elections occur every four years (2028\, 2032\, 2036). Midterm elections occur in even non-presidential years.
 DTSTART;VALUE=DATE:20271102
@@ -70,7 +70,7 @@ DTEND;VALUE=DATE:20271103
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-start-2028@customcalendar
+UID:dst-start-2028@civicengagement
 SUMMARY:Daylight Saving Time Begins
 DESCRIPTION:Clocks spring forward one hour at 2:00 AM on the second Sunday of March. Daylight saving time extends evening daylight through the warmer months. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20280312
@@ -78,7 +78,7 @@ DTEND;VALUE=DATE:20280313
 END:VEVENT
 
 BEGIN:VEVENT
-UID:taxday-2028@customcalendar
+UID:taxday-2028@civicengagement
 SUMMARY:Tax Day
 DESCRIPTION:The deadline for filing U.S. federal individual income tax returns with the IRS. If April 15 falls on a weekend or holiday\, the deadline is moved to the next business day.
 DTSTART;VALUE=DATE:20280415
@@ -86,7 +86,7 @@ DTEND;VALUE=DATE:20280416
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-end-2028@customcalendar
+UID:dst-end-2028@civicengagement
 SUMMARY:Daylight Saving Time Ends
 DESCRIPTION:Clocks fall back one hour at 2:00 AM on the first Sunday of November. Standard time resumes until the following spring. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20281105
@@ -94,7 +94,7 @@ DTEND;VALUE=DATE:20281106
 END:VEVENT
 
 BEGIN:VEVENT
-UID:electionday-2028@customcalendar
+UID:electionday-2028@civicengagement
 SUMMARY:Election Day
 DESCRIPTION:The Tuesday after the first Monday in November is the date for federal\, state\, and local elections. Presidential elections occur every four years (2028\, 2032\, 2036). Midterm elections occur in even non-presidential years.
 DTSTART;VALUE=DATE:20281107
@@ -102,7 +102,7 @@ DTEND;VALUE=DATE:20281108
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-start-2029@customcalendar
+UID:dst-start-2029@civicengagement
 SUMMARY:Daylight Saving Time Begins
 DESCRIPTION:Clocks spring forward one hour at 2:00 AM on the second Sunday of March. Daylight saving time extends evening daylight through the warmer months. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20290311
@@ -110,7 +110,7 @@ DTEND;VALUE=DATE:20290312
 END:VEVENT
 
 BEGIN:VEVENT
-UID:taxday-2029@customcalendar
+UID:taxday-2029@civicengagement
 SUMMARY:Tax Day
 DESCRIPTION:The deadline for filing U.S. federal individual income tax returns with the IRS. If April 15 falls on a weekend or holiday\, the deadline is moved to the next business day.
 DTSTART;VALUE=DATE:20290415
@@ -118,7 +118,7 @@ DTEND;VALUE=DATE:20290416
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-end-2029@customcalendar
+UID:dst-end-2029@civicengagement
 SUMMARY:Daylight Saving Time Ends
 DESCRIPTION:Clocks fall back one hour at 2:00 AM on the first Sunday of November. Standard time resumes until the following spring. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20291104
@@ -126,7 +126,7 @@ DTEND;VALUE=DATE:20291105
 END:VEVENT
 
 BEGIN:VEVENT
-UID:electionday-2029@customcalendar
+UID:electionday-2029@civicengagement
 SUMMARY:Election Day
 DESCRIPTION:The Tuesday after the first Monday in November is the date for federal\, state\, and local elections. Presidential elections occur every four years (2028\, 2032\, 2036). Midterm elections occur in even non-presidential years.
 DTSTART;VALUE=DATE:20291106
@@ -134,7 +134,7 @@ DTEND;VALUE=DATE:20291107
 END:VEVENT
 
 BEGIN:VEVENT
-UID:inaugurationday-2029@customcalendar
+UID:inaugurationday-2029@civicengagement
 SUMMARY:Inauguration Day
 DESCRIPTION:The constitutionally mandated date for the presidential inauguration\, held on January 20 every four years. The President-elect is sworn into office and delivers an inaugural address.
 DTSTART;VALUE=DATE:20290120
@@ -142,7 +142,7 @@ DTEND;VALUE=DATE:20290121
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-start-2030@customcalendar
+UID:dst-start-2030@civicengagement
 SUMMARY:Daylight Saving Time Begins
 DESCRIPTION:Clocks spring forward one hour at 2:00 AM on the second Sunday of March. Daylight saving time extends evening daylight through the warmer months. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20300310
@@ -150,7 +150,7 @@ DTEND;VALUE=DATE:20300311
 END:VEVENT
 
 BEGIN:VEVENT
-UID:taxday-2030@customcalendar
+UID:taxday-2030@civicengagement
 SUMMARY:Tax Day
 DESCRIPTION:The deadline for filing U.S. federal individual income tax returns with the IRS. If April 15 falls on a weekend or holiday\, the deadline is moved to the next business day.
 DTSTART;VALUE=DATE:20300415
@@ -158,7 +158,7 @@ DTEND;VALUE=DATE:20300416
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-end-2030@customcalendar
+UID:dst-end-2030@civicengagement
 SUMMARY:Daylight Saving Time Ends
 DESCRIPTION:Clocks fall back one hour at 2:00 AM on the first Sunday of November. Standard time resumes until the following spring. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20301103
@@ -166,7 +166,7 @@ DTEND;VALUE=DATE:20301104
 END:VEVENT
 
 BEGIN:VEVENT
-UID:electionday-2030@customcalendar
+UID:electionday-2030@civicengagement
 SUMMARY:Election Day
 DESCRIPTION:The Tuesday after the first Monday in November is the date for federal\, state\, and local elections. Presidential elections occur every four years (2028\, 2032\, 2036). Midterm elections occur in even non-presidential years.
 DTSTART;VALUE=DATE:20301105
@@ -174,7 +174,7 @@ DTEND;VALUE=DATE:20301106
 END:VEVENT
 
 BEGIN:VEVENT
-UID:censusday-2030@customcalendar
+UID:censusday-2030@civicengagement
 SUMMARY:Census Day
 DESCRIPTION:April 1 is the official reference date for the U.S. Census\, conducted every ten years as required by the Constitution. Census data shapes congressional representation and federal funding for the next decade.
 DTSTART;VALUE=DATE:20300401
@@ -182,7 +182,7 @@ DTEND;VALUE=DATE:20300402
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-start-2031@customcalendar
+UID:dst-start-2031@civicengagement
 SUMMARY:Daylight Saving Time Begins
 DESCRIPTION:Clocks spring forward one hour at 2:00 AM on the second Sunday of March. Daylight saving time extends evening daylight through the warmer months. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20310309
@@ -190,7 +190,7 @@ DTEND;VALUE=DATE:20310310
 END:VEVENT
 
 BEGIN:VEVENT
-UID:taxday-2031@customcalendar
+UID:taxday-2031@civicengagement
 SUMMARY:Tax Day
 DESCRIPTION:The deadline for filing U.S. federal individual income tax returns with the IRS. If April 15 falls on a weekend or holiday\, the deadline is moved to the next business day.
 DTSTART;VALUE=DATE:20310415
@@ -198,7 +198,7 @@ DTEND;VALUE=DATE:20310416
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-end-2031@customcalendar
+UID:dst-end-2031@civicengagement
 SUMMARY:Daylight Saving Time Ends
 DESCRIPTION:Clocks fall back one hour at 2:00 AM on the first Sunday of November. Standard time resumes until the following spring. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20311102
@@ -206,7 +206,7 @@ DTEND;VALUE=DATE:20311103
 END:VEVENT
 
 BEGIN:VEVENT
-UID:electionday-2031@customcalendar
+UID:electionday-2031@civicengagement
 SUMMARY:Election Day
 DESCRIPTION:The Tuesday after the first Monday in November is the date for federal\, state\, and local elections. Presidential elections occur every four years (2028\, 2032\, 2036). Midterm elections occur in even non-presidential years.
 DTSTART;VALUE=DATE:20311104
@@ -214,7 +214,7 @@ DTEND;VALUE=DATE:20311105
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-start-2032@customcalendar
+UID:dst-start-2032@civicengagement
 SUMMARY:Daylight Saving Time Begins
 DESCRIPTION:Clocks spring forward one hour at 2:00 AM on the second Sunday of March. Daylight saving time extends evening daylight through the warmer months. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20320314
@@ -222,7 +222,7 @@ DTEND;VALUE=DATE:20320315
 END:VEVENT
 
 BEGIN:VEVENT
-UID:taxday-2032@customcalendar
+UID:taxday-2032@civicengagement
 SUMMARY:Tax Day
 DESCRIPTION:The deadline for filing U.S. federal individual income tax returns with the IRS. If April 15 falls on a weekend or holiday\, the deadline is moved to the next business day.
 DTSTART;VALUE=DATE:20320415
@@ -230,7 +230,7 @@ DTEND;VALUE=DATE:20320416
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-end-2032@customcalendar
+UID:dst-end-2032@civicengagement
 SUMMARY:Daylight Saving Time Ends
 DESCRIPTION:Clocks fall back one hour at 2:00 AM on the first Sunday of November. Standard time resumes until the following spring. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20321107
@@ -238,7 +238,7 @@ DTEND;VALUE=DATE:20321108
 END:VEVENT
 
 BEGIN:VEVENT
-UID:electionday-2032@customcalendar
+UID:electionday-2032@civicengagement
 SUMMARY:Election Day
 DESCRIPTION:The Tuesday after the first Monday in November is the date for federal\, state\, and local elections. Presidential elections occur every four years (2028\, 2032\, 2036). Midterm elections occur in even non-presidential years.
 DTSTART;VALUE=DATE:20321102
@@ -246,7 +246,7 @@ DTEND;VALUE=DATE:20321103
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-start-2033@customcalendar
+UID:dst-start-2033@civicengagement
 SUMMARY:Daylight Saving Time Begins
 DESCRIPTION:Clocks spring forward one hour at 2:00 AM on the second Sunday of March. Daylight saving time extends evening daylight through the warmer months. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20330313
@@ -254,7 +254,7 @@ DTEND;VALUE=DATE:20330314
 END:VEVENT
 
 BEGIN:VEVENT
-UID:taxday-2033@customcalendar
+UID:taxday-2033@civicengagement
 SUMMARY:Tax Day
 DESCRIPTION:The deadline for filing U.S. federal individual income tax returns with the IRS. If April 15 falls on a weekend or holiday\, the deadline is moved to the next business day.
 DTSTART;VALUE=DATE:20330415
@@ -262,7 +262,7 @@ DTEND;VALUE=DATE:20330416
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-end-2033@customcalendar
+UID:dst-end-2033@civicengagement
 SUMMARY:Daylight Saving Time Ends
 DESCRIPTION:Clocks fall back one hour at 2:00 AM on the first Sunday of November. Standard time resumes until the following spring. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20331106
@@ -270,7 +270,7 @@ DTEND;VALUE=DATE:20331107
 END:VEVENT
 
 BEGIN:VEVENT
-UID:electionday-2033@customcalendar
+UID:electionday-2033@civicengagement
 SUMMARY:Election Day
 DESCRIPTION:The Tuesday after the first Monday in November is the date for federal\, state\, and local elections. Presidential elections occur every four years (2028\, 2032\, 2036). Midterm elections occur in even non-presidential years.
 DTSTART;VALUE=DATE:20331108
@@ -278,7 +278,7 @@ DTEND;VALUE=DATE:20331109
 END:VEVENT
 
 BEGIN:VEVENT
-UID:inaugurationday-2033@customcalendar
+UID:inaugurationday-2033@civicengagement
 SUMMARY:Inauguration Day
 DESCRIPTION:The constitutionally mandated date for the presidential inauguration\, held on January 20 every four years. The President-elect is sworn into office and delivers an inaugural address.
 DTSTART;VALUE=DATE:20330120
@@ -286,7 +286,7 @@ DTEND;VALUE=DATE:20330121
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-start-2034@customcalendar
+UID:dst-start-2034@civicengagement
 SUMMARY:Daylight Saving Time Begins
 DESCRIPTION:Clocks spring forward one hour at 2:00 AM on the second Sunday of March. Daylight saving time extends evening daylight through the warmer months. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20340312
@@ -294,7 +294,7 @@ DTEND;VALUE=DATE:20340313
 END:VEVENT
 
 BEGIN:VEVENT
-UID:taxday-2034@customcalendar
+UID:taxday-2034@civicengagement
 SUMMARY:Tax Day
 DESCRIPTION:The deadline for filing U.S. federal individual income tax returns with the IRS. If April 15 falls on a weekend or holiday\, the deadline is moved to the next business day.
 DTSTART;VALUE=DATE:20340415
@@ -302,7 +302,7 @@ DTEND;VALUE=DATE:20340416
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-end-2034@customcalendar
+UID:dst-end-2034@civicengagement
 SUMMARY:Daylight Saving Time Ends
 DESCRIPTION:Clocks fall back one hour at 2:00 AM on the first Sunday of November. Standard time resumes until the following spring. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20341105
@@ -310,7 +310,7 @@ DTEND;VALUE=DATE:20341106
 END:VEVENT
 
 BEGIN:VEVENT
-UID:electionday-2034@customcalendar
+UID:electionday-2034@civicengagement
 SUMMARY:Election Day
 DESCRIPTION:The Tuesday after the first Monday in November is the date for federal\, state\, and local elections. Presidential elections occur every four years (2028\, 2032\, 2036). Midterm elections occur in even non-presidential years.
 DTSTART;VALUE=DATE:20341107
@@ -318,7 +318,7 @@ DTEND;VALUE=DATE:20341108
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-start-2035@customcalendar
+UID:dst-start-2035@civicengagement
 SUMMARY:Daylight Saving Time Begins
 DESCRIPTION:Clocks spring forward one hour at 2:00 AM on the second Sunday of March. Daylight saving time extends evening daylight through the warmer months. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20350311
@@ -326,7 +326,7 @@ DTEND;VALUE=DATE:20350312
 END:VEVENT
 
 BEGIN:VEVENT
-UID:taxday-2035@customcalendar
+UID:taxday-2035@civicengagement
 SUMMARY:Tax Day
 DESCRIPTION:The deadline for filing U.S. federal individual income tax returns with the IRS. If April 15 falls on a weekend or holiday\, the deadline is moved to the next business day.
 DTSTART;VALUE=DATE:20350415
@@ -334,7 +334,7 @@ DTEND;VALUE=DATE:20350416
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-end-2035@customcalendar
+UID:dst-end-2035@civicengagement
 SUMMARY:Daylight Saving Time Ends
 DESCRIPTION:Clocks fall back one hour at 2:00 AM on the first Sunday of November. Standard time resumes until the following spring. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20351104
@@ -342,7 +342,7 @@ DTEND;VALUE=DATE:20351105
 END:VEVENT
 
 BEGIN:VEVENT
-UID:electionday-2035@customcalendar
+UID:electionday-2035@civicengagement
 SUMMARY:Election Day
 DESCRIPTION:The Tuesday after the first Monday in November is the date for federal\, state\, and local elections. Presidential elections occur every four years (2028\, 2032\, 2036). Midterm elections occur in even non-presidential years.
 DTSTART;VALUE=DATE:20351106
@@ -350,7 +350,7 @@ DTEND;VALUE=DATE:20351107
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-start-2036@customcalendar
+UID:dst-start-2036@civicengagement
 SUMMARY:Daylight Saving Time Begins
 DESCRIPTION:Clocks spring forward one hour at 2:00 AM on the second Sunday of March. Daylight saving time extends evening daylight through the warmer months. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20360309
@@ -358,7 +358,7 @@ DTEND;VALUE=DATE:20360310
 END:VEVENT
 
 BEGIN:VEVENT
-UID:taxday-2036@customcalendar
+UID:taxday-2036@civicengagement
 SUMMARY:Tax Day
 DESCRIPTION:The deadline for filing U.S. federal individual income tax returns with the IRS. If April 15 falls on a weekend or holiday\, the deadline is moved to the next business day.
 DTSTART;VALUE=DATE:20360415
@@ -366,7 +366,7 @@ DTEND;VALUE=DATE:20360416
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dst-end-2036@customcalendar
+UID:dst-end-2036@civicengagement
 SUMMARY:Daylight Saving Time Ends
 DESCRIPTION:Clocks fall back one hour at 2:00 AM on the first Sunday of November. Standard time resumes until the following spring. Remember: Spring forward\, fall back.
 DTSTART;VALUE=DATE:20361102
@@ -374,7 +374,7 @@ DTEND;VALUE=DATE:20361103
 END:VEVENT
 
 BEGIN:VEVENT
-UID:electionday-2036@customcalendar
+UID:electionday-2036@civicengagement
 SUMMARY:Election Day
 DESCRIPTION:The Tuesday after the first Monday in November is the date for federal\, state\, and local elections. Presidential elections occur every four years (2028\, 2032\, 2036). Midterm elections occur in even non-presidential years.
 DTSTART;VALUE=DATE:20361104
