@@ -45,7 +45,7 @@ Key Jewish feasts and holy days. The 🌇 emoji on each event title is a reminde
 
 | Event                                       | Description                                                                                           |
 | ------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| **Purim**                                 | Celebrates the deliverance of the Jewish people as recorded in the Book of Esther; 14 Adar            |
+| **Purim (Feast of Lots)**                 | Celebrates the deliverance of the Jewish people as recorded in the Book of Esther; 14 Adar            |
 | **Passover (Feast of Unleavened Bread)**  | Commemorates the Exodus from Egypt; begins 15 Nisan with the Passover Seder                           |
 | **Shavuot (Feast of Weeks)**              | Celebrates the giving of the Torah at Sinai, 50 days after the start of Passover; 6 Sivan             |
 | **Rosh Hashanah (Feast of Trumpets)**     | The Jewish New Year; begins the Ten Days of Awe leading to Yom Kippur; 1 Tishrei                      |
